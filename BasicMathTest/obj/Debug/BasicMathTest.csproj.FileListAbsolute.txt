@@ -1,0 +1,15 @@
+D:\Study\13th03_KiemThu\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Study\13th03_KiemThu\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Study\13th03_KiemThu\BasicMathTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Study\13th03_KiemThu\BasicMathTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Study\13th03_KiemThu\BasicMathTest\bin\Debug\BasicMathTest.dll
+D:\Study\13th03_KiemThu\BasicMathTest\bin\Debug\BasicMathTest.pdb
+D:\Study\13th03_KiemThu\BasicMathTest\bin\Debug\BasicMath.exe
+D:\Study\13th03_KiemThu\BasicMathTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Study\13th03_KiemThu\BasicMathTest\bin\Debug\BasicMath.pdb
+D:\Study\13th03_KiemThu\BasicMathTest\bin\Debug\BasicMath.exe.config
+D:\Study\13th03_KiemThu\BasicMathTest\obj\Debug\BasicMathTest.csproj.AssemblyReference.cache
+D:\Study\13th03_KiemThu\BasicMathTest\obj\Debug\BasicMathTest.csproj.CoreCompileInputs.cache
+D:\Study\13th03_KiemThu\BasicMathTest\obj\Debug\BasicMat.7FDE8C5C.Up2Date
+D:\Study\13th03_KiemThu\BasicMathTest\obj\Debug\BasicMathTest.dll
+D:\Study\13th03_KiemThu\BasicMathTest\obj\Debug\BasicMathTest.pdb

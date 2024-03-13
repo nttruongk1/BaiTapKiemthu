@@ -1,0 +1,7 @@
+D:\Study\13th03_KiemThu\BasicMath\bin\Debug\BasicMath.exe.config
+D:\Study\13th03_KiemThu\BasicMath\bin\Debug\BasicMath.exe
+D:\Study\13th03_KiemThu\BasicMath\bin\Debug\BasicMath.pdb
+D:\Study\13th03_KiemThu\BasicMath\obj\Debug\BasicMath.csproj.AssemblyReference.cache
+D:\Study\13th03_KiemThu\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+D:\Study\13th03_KiemThu\BasicMath\obj\Debug\BasicMath.exe
+D:\Study\13th03_KiemThu\BasicMath\obj\Debug\BasicMath.pdb
